@@ -17,9 +17,10 @@ responsabile dell'attività estrattiva, Marianna Marinelli.
 </p>  
   
 <br/>
-
+<figure>
 <img align="left" width="600" src="P1100011.JPG">
-<p>Il team di ricercatori al lavoro nella cava Marinelli di Mantignana</p>
+<figcaption>Il team di ricercatori al lavoro nella cava Marinelli di Mantignana</figcaption>
+</figure>
 
   
 
