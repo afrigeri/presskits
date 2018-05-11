@@ -11,7 +11,7 @@ il radar e lo spettrometro a bordo del rover di ExoMars che esplorerà la superf
 radio per indagare il sottosuolo generando immagini simili alle comuni radiografie, mentre lo spettrometro MA_MISS fornirà 
 la composizione mineralogica del sottosuolo, operando all'interno della piccola trivella che perforerà la superficie di Marte.
 La Professoressa Valerie Ciarletti del LATMOS di Parigi, responsabile dell'esperimento WISDOM ed il Dottor Alessandro Frigeri dell'Istituto di
-Astofisica e Planetologia Spaziali di Roma, geologo del team scientifico di MA_MISS, hanno effettuato parte delle prove che 
+Astofisica e Planetologia Spaziali dell'INAF di Roma, geologo del team scientifico di MA_MISS, hanno effettuato parte delle prove che 
 permetteranno di integrare i dati scientifici che verranno trasmessi da Marte una volta che la missione sarà operativa, nel 2020.
 I due ricercatori della missione ExoMars sono stati accompagnati da due esperti locali di misure geofisiche, il Dottor Massimiliano Mazzocca 
 dello studio GeoPro ed il Dottor Maurizio Ercoli dell'Università di Perugia.
