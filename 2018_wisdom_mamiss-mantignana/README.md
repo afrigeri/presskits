@@ -16,11 +16,10 @@ soddisfazione aver potuto supportare le attività che ci preparano alla prossima
 responsabile dell'attività estrattiva, Marianna Marinelli.
 </p>  
   
-<img align="left" width="600" src="P1100010.JPG" rotate="90">
-<img align="left" width="600" src="P1100010a.JPG" rotate="90">
-
 <br/>
 
 <img align="left" width="600" src="P1100011.JPG">
+<p>Il team di ricercatori al lavoro nella cava Marinelli di Mantignana</p>
+
   
 
