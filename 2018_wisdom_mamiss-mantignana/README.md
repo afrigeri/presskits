@@ -1,5 +1,5 @@
 <p align="justify">
-**PERUGIA**. Lo scorso 9 Maggio 2018 presso la cava Marinelli di Mantignana si sono svolti dei test di misure geofisiche da parte 
+PERUGIA. Lo scorso 9 Maggio 2018 presso la cava Marinelli di Mantignana si sono svolti dei test di misure geofisiche da parte 
 dei ricercatori che stanno preparando la prossima missione su Marte dell'Agenzia Spaziale Europea e Russa: ExoMars. Lo scopo 
 della missione è di cercare tracce di vita nel sottosuolo del pianeta.
 La cava di calcare di Mantignana è stato lo scenario di una campagna di misure utili agli esperimenti WISDOM e MA_MISS, 
