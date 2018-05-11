@@ -14,4 +14,8 @@ dello studio GeoPro ed il Dottor Maurizio Ercoli dell'Università di Perugia.
 "Sono diversi anni che ospitiamo con piacere le attività scientifiche e didattiche dell'Università, ed è una grande 
 soddisfazione aver potuto supportare le attività che ci preparano alla prossima missione scientifica su Marte", ha commentato la 
 responsabile dell'attività estrattiva, Marianna Marinelli.
+  
+<img align="left" width="600" src="P1100010.JPG">
+<img align="left" width="600" src="P1100011.JPG">
+  
 </p>
