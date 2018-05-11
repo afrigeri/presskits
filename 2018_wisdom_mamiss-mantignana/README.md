@@ -17,6 +17,7 @@ responsabile dell'attività estrattiva, Marianna Marinelli.
 </p>  
   
 <img align="left" width="600" src="P1100010.JPG" rotate="90">
+<img align="left" width="600" src="P1100010a.JPG" rotate="90">
 
 <br/>
 
