@@ -1,3 +1,4 @@
+<p align="justify">
 **PERUGIA**. Lo scorso 9 Maggio 2018 presso la cava Marinelli di Mantignana si sono svolti dei test di misure geofisiche da parte 
 dei ricercatori che stanno preparando la prossima missione su Marte dell'Agenzia Spaziale Europea e Russa: ExoMars. Lo scopo 
 della missione è di cercare tracce di vita nel sottosuolo del pianeta.
@@ -13,3 +14,4 @@ dello studio GeoPro ed il Dottor Maurizio Ercoli dell'Università di Perugia.
 "Sono diversi anni che ospitiamo con piacere le attività scientifiche e didattiche dell'Università, ed è una grande 
 soddisfazione aver potuto supportare le attività che ci preparano alla prossima missione scientifica su Marte", ha commentato la 
 responsabile dell'attività estrattiva, Marianna Marinelli.
+</p>
